@@ -6,10 +6,19 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Market Sentiment
 
-- [FedWatch](http://www.cmegroup.com/trading/interest-rates/fed-funds.html) - Implied Probability of Fed Fund Rate Hike
+- [FedWatch](http://www.cmegroup.com/trading/interest-rates/fed-funds.html) - Implied probability of Fed Fund Rate Hike
+- [Estimize](https://www.estimize.com/) - Crowdsourced earnings and economic estimates
 
 ## Corp Filings, Macro Data
 
 - [Thinknum](https://www.thinknum.com/)
 - [Quadrant](https://www.quadrant.io/)
 - [Quandl](https://www.quandl.com/)
+
+## Robo Advisors
+
+- [8 Securities](https://www.8securities.com/) - Hong Kong / Japan Robo Advisor
+
+## Algo Trading
+
+- [Quantopian](https://www.quantopian.com/)
