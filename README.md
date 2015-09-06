@@ -9,7 +9,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [FedWatch](http://www.cmegroup.com/trading/interest-rates/fed-funds.html) - Implied probability of Fed Fund Rate Hike
 - [Estimize](https://www.estimize.com/) - Crowdsourced earnings and economic estimates
 
-## Corp Filings, Macro Data
+## Calendars
+
+- [FxStreet Economic Calendar](http://www.fxstreet.com/economic-calendar/) - Dates on key economic figures announcement
+
+## Corporate Filings, Macro Data
 
 - [Thinknum](https://www.thinknum.com/)
 - [Quadrant](https://www.quadrant.io/)
@@ -19,6 +23,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [8 Securities](https://www.8securities.com/) - Hong Kong / Japan Robo Advisor
 
-## Algo Trading
+## Algorithmic Trading
 
 - [Quantopian](https://www.quantopian.com/)
