@@ -19,6 +19,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Quadrant](https://www.quadrant.io/)
 - [Quandl](https://www.quandl.com/)
 
+## Profolio Management
+
+- [Hellomoney](http://hellomoney.co/) - Portfolio Design and social sharing
+- [Portfolio Visualizer](https://www.portfoliovisualizer.com/) - Portfolio backtesting
+
 ## Robo Advisors
 
 - [8 Securities](https://www.8securities.com/) - Hong Kong / Japan Robo Advisor
