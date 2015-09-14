@@ -4,14 +4,20 @@
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
+## Calendars
+
+- [FxStreet Economic Calendar](http://www.fxstreet.com/economic-calendar/) - Dates on key economic figures announcement
+
 ## Market Sentiment
 
 - [FedWatch](http://www.cmegroup.com/trading/interest-rates/fed-funds.html) - Implied probability of Fed Fund Rate Hike
 - [Estimize](https://www.estimize.com/) - Crowdsourced earnings and economic estimates
 
-## Calendars
+## Stock Picking
 
-- [FxStreet Economic Calendar](http://www.fxstreet.com/economic-calendar/) - Dates on key economic figures announcement
+- [Stockflare](https://stockflare.com)
+- [Cappio](http://www.capp.io/)
+- [Simply Wall St](https://simplywall.st/snowflake/grid)
 
 ## Corporate Filings, Macro Data
 
