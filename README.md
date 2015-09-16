@@ -21,6 +21,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Corporate Filings, Macro Data
 
+- [Two Margins](https://www.twomargins.com/) - Discuss financial documents
 - [Thinknum](https://www.thinknum.com/)
 - [Quadrant](https://www.quadrant.io/)
 - [Quandl](https://www.quandl.com/)
@@ -32,6 +33,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Robo Advisors
 
+- [Wealthfront](https://www.wealthfront.com/)
+- [Betterment](https://www.betterment.com/)
+- [LearnVest](https://www.learnvest.com/)
+- [Hedgeable](http://www.hedgeable.com/)
 - [8 Securities](https://www.8securities.com/) - Hong Kong / Japan Robo Advisor
 
 ## Algorithmic Trading
