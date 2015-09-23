@@ -18,6 +18,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Stockflare](https://stockflare.com)
 - [Cappio](http://www.capp.io/)
 - [Simply Wall St](https://simplywall.st/snowflake/grid)
+- [HedgeMind](http://hedgemind.com/)
 
 ## Corporate Filings, Macro Data
 
