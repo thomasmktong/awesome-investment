@@ -8,6 +8,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [FxStreet Economic Calendar](http://www.fxstreet.com/economic-calendar/) - Dates on key economic figures announcement
 - [Investing.com Economic Calendar](http://www.investing.com/economic-calendar/)
+- [Investing.com Holiday Calendar](http://www.investing.com/holiday-calendar/) - Calendar of Bank Holiday Worldwide
 
 ## Market Sentiment
 
