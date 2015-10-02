@@ -14,6 +14,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [FedWatch](http://www.cmegroup.com/trading/interest-rates/fed-funds.html) - Implied probability of Fed Fund Rate Hike
 - [Estimize](https://www.estimize.com/) - Crowdsourced earnings and economic estimates
+- [IG Index CFDs Trading](http://www.ig.com/au/indices-trading) - Real-time Index CFDs Prices
+- [IG Forex Trading](http://www.ig.com/au/forex-trading) - Real-time Prices of Major Forex Pairs
+- [IG Commodities Trading](http://www.ig.com/au/commodities-trading) - Real-time Major Commodities Prices
 
 ## Stock Picking
 
