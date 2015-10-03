@@ -24,6 +24,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Cappio](http://www.capp.io/)
 - [Simply Wall St](https://simplywall.st/snowflake/grid)
 - [HedgeMind](http://hedgemind.com/)
+- [IBD eTables](http://research.investors.com/etables/default.aspx?nav=ResearcheTables)
+- [Top-Rated Stocks Under $10](http://research.investors.com/topratedunder10/default.aspx?nav=ResearchUnder10)
+- [IBD Stock Checkup](http://research.investors.com/stock-checkup)
+- [IBD Screen Center](http://research.investors.com/screen-center/?nav=ResearchSC)
+- [Stocks On The Move](http://research.investors.com/stocksonthemove.aspx)
 
 ## Corporate Filings, Macro Data
 
