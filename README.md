@@ -57,3 +57,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Algorithmic Trading
 
 - [Quantopian](https://www.quantopian.com/)
+
+## Bitcoin
+
+- [Kaiko Statistics](https://kaiko.com/statistics)
+- [Bitcoin Wisdom](https://bitcoinwisdom.com/)
