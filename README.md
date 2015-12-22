@@ -4,6 +4,10 @@
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
+## Market Price & News
+
+- [Tiingo](https://www.tiingo.com/)
+
 ## Calendars
 
 - [FxStreet Economic Calendar](http://www.fxstreet.com/economic-calendar/) - Dates on key economic figures announcement
