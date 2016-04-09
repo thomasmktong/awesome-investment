@@ -21,6 +21,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [IG Index CFDs Trading](http://www.ig.com/au/indices-trading) - Real-time Index CFDs Prices
 - [IG Forex Trading](http://www.ig.com/au/forex-trading) - Real-time Prices of Major Forex Pairs
 - [IG Commodities Trading](http://www.ig.com/au/commodities-trading) - Real-time Major Commodities Prices
+- [Investing.com Major Indices] (http://www.investing.com/indices/major-indices)
+- [FinViz.com HeatMap] (http://finviz.com/map.ashx)
 
 ## Stock Picking
 
