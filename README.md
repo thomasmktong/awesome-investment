@@ -35,6 +35,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [IBD Stock Checkup](http://research.investors.com/stock-checkup)
 - [IBD Screen Center](http://research.investors.com/screen-center/?nav=ResearchSC)
 - [Stocks On The Move](http://research.investors.com/stocksonthemove.aspx)
+- [KeepRule](https://keeprule.com) - AI-powered investment principles platform. Learn from Buffett, Munger, and other masters with AI chat mentors.
 
 ## Corporate Filings, Macro Data
 
