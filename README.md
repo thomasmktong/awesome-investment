@@ -29,6 +29,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Stockflare](https://stockflare.com)
 - [Cappio](http://www.capp.io/)
 - [Simply Wall St](https://simplywall.st/snowflake/grid)
+- [DisconfirmAI](https://disconfirmai.com/en) - Investment research platform that seeks disconfirming evidence before conviction. Public reading, filings research, conditional radar, personal framework. Free valuation tools.
 - [HedgeMind](http://hedgemind.com/)
 - [IBD eTables](http://research.investors.com/etables/default.aspx?nav=ResearcheTables)
 - [Top-Rated Stocks Under $10](http://research.investors.com/topratedunder10/default.aspx?nav=ResearchUnder10)
